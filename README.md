@@ -3,6 +3,7 @@
 * More specifically from sklearn, the project utilizes the Multi Layer Perceptron, a neural network based machine learning model. <br/>
 * Trains/tests on audio files from the RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song) data set to predict speech emotion.<br/>
 * Predicts speech emotion with up to 77% accuracy.<br/>
+* Requires 'pip install librosa soundfile numpy sklearn pyaudio' in order to run properly
 
 
 References:<br/>
